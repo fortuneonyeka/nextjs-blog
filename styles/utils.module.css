@@ -18,11 +18,14 @@
   font-size: 1.5rem;
   line-height: 1.4;
   margin: 1rem 0;
+  text-align: center;
+  border-bottom: 2px solid gray;
 }
 
 .headingMd {
   font-size: 1.2rem;
   padding :2rem;
+  margin: 1rem;
   border-radius: 5rem;
   line-height: 1.5;
   -webkit-box-shadow: 0 0 50px #fff;
