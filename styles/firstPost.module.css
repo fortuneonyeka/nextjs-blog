@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+
+.profile-img {
+  position: relative;
+  display: block;
+  size: cover;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
